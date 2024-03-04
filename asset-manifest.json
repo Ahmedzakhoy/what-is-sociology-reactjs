@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/what-is-sociology-reactjs/static/css/main.b343adc2.css",
+    "main.js": "/what-is-sociology-reactjs/static/js/main.57849401.js",
+    "static/media/social-change.png": "/what-is-sociology-reactjs/static/media/social-change.9ac3ed89ee68af080991.png",
+    "static/media/social-structure.png": "/what-is-sociology-reactjs/static/media/social-structure.f8c7e4535faf1b9afa2c.png",
+    "static/media/sociology.png": "/what-is-sociology-reactjs/static/media/sociology.91097ed00d4353aad4aa.png",
+    "static/media/social-interaction.png": "/what-is-sociology-reactjs/static/media/social-interaction.6ad906d01ec955bd720b.png",
+    "static/media/socialization.png": "/what-is-sociology-reactjs/static/media/socialization.fe49b15fde45c811d1bb.png",
+    "index.html": "/what-is-sociology-reactjs/index.html",
+    "main.b343adc2.css.map": "/what-is-sociology-reactjs/static/css/main.b343adc2.css.map",
+    "main.57849401.js.map": "/what-is-sociology-reactjs/static/js/main.57849401.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b343adc2.css",
+    "static/js/main.57849401.js"
+  ]
+}
